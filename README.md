@@ -3,15 +3,7 @@
 </p>
 
 <p align="center">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ApertureLaboratory/aperture-challenge01?color=258BF1">
-
-  <a href="https://github.com/ApertureLaboratory/aperture-challenge01/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ApertureLaboratory/aperture-challenge01?color=258BF1">
-  </a>
   <img alt="License" src="https://img.shields.io/badge/license-MIT-258BF1">
-  <a href="https://github.com/ApertureLaboratory/aperture-challenge01/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/ApertureLaboratory/aperture-challenge01?color=258BF1&logo=github">
-  </a>
 </p>
 
 <div align="center">
