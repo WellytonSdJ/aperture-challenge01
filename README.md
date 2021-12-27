@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Yagasaki7K/website-essentials?color=258BF1">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ApertureLaboratory/aperture-challenge01?color=258BF1">
 
-  <a href="https://github.com/Yagasaki7K/website-essentials/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Yagasaki7K/website-essentials?color=258BF1">
+  <a href="https://github.com/ApertureLaboratory/aperture-challenge01/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ApertureLaboratory/aperture-challenge01?color=258BF1">
   </a>
   <img alt="License" src="https://img.shields.io/badge/license-MIT-258BF1">
-  <a href="https://github.com/Yagasaki7K/website-essentials/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/Yagasaki7K/website-essentials?color=258BF1&logo=github">
+  <a href="https://github.com/ApertureLaboratory/aperture-challenge01/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/ApertureLaboratory/aperture-challenge01?color=258BF1&logo=github">
   </a>
 </p>
 
@@ -23,7 +23,7 @@
   </sub>
 </div>
 
-# :pushpin: Sumário
+# Sumário
 
 * [Sobre a Aperture Laboratories](#aperture-laboratories)
 * [Desafio](#desafio)
@@ -48,4 +48,4 @@ EM BREVE!
 
 Esse projeto está sobre a licença do [MIT license](./LICENSE).
 
-Mais informações sobre a [Aperture Laboratories](https://www.aperturelabs.netlify.com/) e o desafio em [Aperture Labs Challenge](https://www.aperturelabs.netlify.com/challenge/)
+Mais informações sobre a [Aperture Laboratories](https://aperturelabs.netlify.com/) e o desafio em [Aperture Labs Challenge](https://aperturelabs.netlify.com/challenge/)
