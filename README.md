@@ -34,7 +34,7 @@ Este desafio foi iniciado em 27 de Dezembro de 2021 e terminou em 03 de Janeiro 
 
 # Resultado
 
-EM BREVE!
+https://aperturelaboratory.github.io/aperture-challenge01/
 
 # Licença
 
